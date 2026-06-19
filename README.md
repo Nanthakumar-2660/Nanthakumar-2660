@@ -95,4 +95,4 @@ AI-powered mobile application integrating:
 https://linkedin.com/in/nanthakumar-n
 
 🌐 Portfolio:
-https://nanthakumar.vercel.app
+
